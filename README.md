@@ -3,5 +3,5 @@
   delivery.
 > Implemented robust authentication and authorization using JWT, bcrypt, and OTP, ensuring secure access for both students and 
   instructors.
-> Integrated Razorpay for handling course payments and Cloudinary for media management through backend APIs.
+> Integrated Razorpay for handling course payments and Cloudinary for media managements through backend APIs.
 > Designed optimized Mongoose schemas to manage users, instructors, courses, and media relationships efficiently.
